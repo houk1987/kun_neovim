@@ -1,2 +1,8 @@
 require 'options'
 require 'keymaps'
+require 'myplugins'
+require 'config.lualine'
+require 'config.tokyonight'
+require 'config.mason-lspconfig'
+require 'config.lspconfig'
+require 'config.telescope'
