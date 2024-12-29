@@ -6,6 +6,7 @@ local options={
 	sts=4,
 	sw=4,
 	cul=true,
+	ignorecase=true
 }
 
 for k,v in pairs(options)do
