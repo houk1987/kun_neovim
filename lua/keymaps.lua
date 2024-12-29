@@ -13,6 +13,7 @@ map('i','jk','<esc>')
 -- 定义 normal model keymap
 
 map('n','<leader>w','<cmd>w<cr>')
+map('n',',',':')
 map('n','<leader>q','<cmd>q<cr>')
 map('n','<leader>s','<cmd>source %<cr>')
 map('n','<leader>n','<cmd>bnext<cr>')
