@@ -1,4 +1,4 @@
-local cmp =require 'cmp'
+
 local preset=cmp.mapping.preset
 local luasnip=require("luasnip")
 local types = require "cmp.types"
